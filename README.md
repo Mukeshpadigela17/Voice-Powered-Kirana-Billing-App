@@ -28,10 +28,15 @@ A simple and user-friendly billing and inventory management application designed
 
 text
 voice-powered-kirana-billing-app/
+
 ├── app.py
+
 ├── requirements.txt
+
 ├── README.md
+
 ├── LICENSE
+
 └── .gitignore
 
 
